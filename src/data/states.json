@@ -1,0 +1,127 @@
+{
+    "FPT_Education": {
+      "history": [
+        "FPT Education thành lập năm 1999.",
+        "Là 1 trong các đơn vị thành viên, nắm giữ 1 trong 3 mảng hoạt động cốt lõi của Tập đoàn FPT - Tập đoàn tiên phong trong lĩnh vực CNTT của Việt Nam.",
+        "Là thương hiệu giáo dục có tầm ảnh hưởng quốc tế, FPT Education đã mở rộng ra đầy đủ các cấp học, góp phần cung cấp nguồn nhân lực chất lượng cao cho thị trường lao động."
+      ],
+      "anniversary": {
+        "year": "Năm 2024",
+        "event": "Kỷ niệm 25 năm thành lập FPT Education: Hành Trình \"Lên Ngàn\"",
+        "details": "Năm 2024, FPT Education kỷ niệm 25 năm thành lập (1999-2024) bằng chuỗi sự kiện \"Lên Ngàn\" đầy ý nghĩa. Chương trình này mang đến cho các cán bộ giảng viên (CBGV) cơ hội chinh phục 25 đỉnh núi trong và ngoài nước, thể hiện tinh thần \"vượt qua giới hạn\" và \"phát triển bền vững\". \n Khởi đầu là chặng \"Tiên phong\" với 8 đỉnh núi, bao gồm Fansipan, Tả Liên Sơn, Tà Chì Nhù, Putaleng, Lảo Thẩn, Tà Xùa, Ngũ Chỉ Sơn và hành trình đến Everest Base Camp. Đây là cơ hội để các CBGV FPT Edu rèn luyện sức khỏe, gắn kết tinh thần đồng đội, và trải nghiệm những thử thách đáng giá. \n Chương trình hỗ trợ 50% chi phí tour, với tổng hỗ trợ tối đa 5.000.000 VNĐ mỗi người, tạo điều kiện thuận lợi cho các CBGV tham gia. Chuỗi hoạt động kỷ niệm không chỉ nhìn lại 1/4 thế kỷ phát triển của FPT Education mà còn truyền cảm hứng cho thế hệ trẻ, thúc đẩy tinh thần tiên phong và khát vọng chinh phục những tầm cao mới.",
+        "image_url" : "https://fpt.edu.vn/resources/article/uploads/thumb/M_img_11efe044-6b51-4730-8887-c9d4b52b37a6.jpeg"
+      },
+      "lasted_event" : {
+        "name" : "InnoCode Camp",
+        "time" : "Ngày 11 tháng 7 - ngày 12 tháng 7 năm 2024",
+        "host" : "Được tổ chức bởi Phòng CF phối hợp với Văn phòng Hợp tác Quốc tế & Phát triển Cá nhân Đại học FPT Đà Nẵng, đây là đấu trường hoàn hảo để tỏa sáng trên bản đồ công nghệ!",
+        "slogan" : "InnoCode Camp 2024 không chỉ là một cuộc thi; đó là một hành trình để vượt qua giới hạn kỹ năng lập trình của bạn.",
+        "scoring_criteria" : "Tại vòng loại cuộc thi thiết kế web, các Đội sẽ lên ý tưởng và căn cứ trên nền tảng front-end; Mỗi Team sẽ thiết kế giao diện chính và các trang con bên trong, tập trung vào thiết kế giao diện mà không yêu cầu phát triển chức năng. Tiêu chí đánh giá bao gồm tính thẩm mỹ, bố cục, tính sáng tạo, tính nhất quán và kỹ năng trình bày.",
+        "scoring_criteria_special" : "Đặc biệt, ban tổ chức mong muốn nhìn thấy những ý tưởng độc đáo, sáng tạo được thể hiện qua từng thiết kế, cùng với việc sử dụng hài hòa màu sắc, phông chữ, hình ảnh.",
+        "team_size" : "Số lượng thành viên: 3 đến 5 học sinh/Đội",
+        "archivement" : "Giải thưởng và thông báo tiếp theo. Giải thưởng: InnoCodeCamp hứa hẹn sẽ mang đến những giải thưởng hấp dẫn cho các đội chiến thắng, nhằm tôn vinh những nỗ lực và thành tích của họ đồng thời khuyến khích sự sáng tạo và cải tiến không ngừng. Chi tiết về giải thưởng:: Giải nhất: 5.000.000 đồng Giải nhì: 3.000.000 đồng Giải ba: 2.000.000 đồng Giải yêu thích: 1.000.000 VNĐ Ngoài ra, mỗi cá nhân sẽ nhận được Áo thi đấu và Mũ thi đấu (dành cho các đội vào vòng chung kết). Những người còn lại sẽ nhận được Giấy chứng nhận tham gia Cuộc thi."
+      },
+      "development": [
+        {
+          "year": "Năm 1999",
+          "events": [
+            "Thành lập FPT Aptech: Đào tạo Lập trình viên Quốc tế, bước tiến đầu tiên của Tập đoàn FPT vào lĩnh vực giáo dục."
+          ]
+        },
+        {
+          "year": "Năm 2004",
+          "events": [
+            "Thành lập FPT Arena: Đào tạo Mỹ thuật Đa phương tiện."
+          ]
+        },
+        {
+          "year": "Năm 2006",
+          "events": [
+            "Thành lập Đại học FPT: Đào tạo Kỹ sư, Cử nhân Đại học, bước tiến quan trọng của Tập đoàn FPT trong lĩnh vực giáo dục."
+          ]
+        },
+        {
+          "year": "Năm 2009",
+          "events": [
+            "Thành lập FPT Greenwich (nay là Greenwich Việt Nam): Đào tạo Kỹ sư, Cử nhân lấy bằng do Đại học Greenwich (Anh Quốc) cấp.",
+            "Thành lập Viện Quản trị và Công nghệ FSB: Đào tạo Thạc sĩ Quản trị Kinh doanh và Công nghệ thông tin."
+          ]
+        },
+        {
+          "year": "Năm 2010",
+          "events": [
+            "Thành lập Cao đẳng Thực hành FPT Polytechnic: Đào tạo Kỹ sư, Cử nhân Cao đẳng Thực hành, bước tiến quan trọng trong việc mở rộng đào tạo."
+          ]
+        },
+        {
+          "year": "Năm 2011",
+          "events": [
+            "Thành lập FPT Jetking: Đào tạo Phần cứng máy tính và Hệ thống mạng."
+          ]
+        },
+        {
+          "year": "Năm 2013",
+          "events": [
+            "Thành lập THPT FPT (Hoà Lạc): Đào tạo bậc phổ thông từ lớp 10 - lớp 12 theo mô hình nội trú."
+          ]
+        },
+        {
+          "year": "Năm 2015",
+          "events": [
+            "Thành lập FUNiX: Đào tạo Kỹ sư CNTT theo hình thức trực tuyến."
+          ]
+        },
+        {
+          "year": "Năm 2016",
+          "events": [
+            "Thành lập Poly K-Beauty thuộc FPT Polytechnic: Đào tạo ngành Thẩm mỹ & Làm đẹp."
+          ]
+        },
+        {
+          "year": "Năm 2017",
+          "events": [
+            "Thành lập BTEC FPT: Cao đẳng Anh quốc BTEC FPT.",
+            "Thành lập Tiểu học & THCS FPT Cầu Giấy: Trường Tiểu học & THCS đầu tiên của FPT Education."
+          ]
+        },
+        {
+          "year": "Năm 2018",
+          "events": [
+            "Thành lập FPT Skilling: Đào tạo chuyên sâu và cấp chứng chỉ quốc tế về Digital Marketing."
+          ]
+        },
+        {
+          "year": "Năm 2019",
+          "events": [
+            "Thành lập FPT Coking: Đào tạo chuyên sâu và cấp chứng chỉ quốc tế về Internet Of Things.",
+            "Thành lập THPT FPT Cần Thơ: Đào tạo bậc phổ thông từ lớp 10 - lớp 12.",
+            "Thành lập Tiểu học - THCS - THPT FPT Đà Nẵng: Đào tạo bậc phổ thông từ lớp 1 - lớp 12.",
+            "Thành lập Swinburne Việt Nam: Đào tạo Kỹ sư, Cử nhân lấy bằng do Đại học Công nghệ Swinburne (Australia) cấp.",
+            "Thành lập Chương trình Phổ thông Cao đẳng thuộc FPT Polytechnic: Đào tạo nghề cho học sinh tốt nghiệp THCS trở lên, lấy bằng Cao đẳng chính quy.",
+            "Hitech gia nhập FPT Polytechnic."
+          ]
+        },
+        {
+          "year": "Năm 2021",
+          "events": [
+            "Thành lập THPT FPT Quy Nhơn: Đào tạo bậc phổ thông từ lớp 10 - lớp 12."
+          ]
+        },
+        {
+          "year": "Năm 2022",
+          "events": [
+            "Thành lập Melbourne Polytechnic Việt Nam: Đào tạo Cử nhân, lấy bằng Cao đẳng do Melbourne Polytechnic (Australia) cấp.",
+            "Thành lập THCS - THPT FPT Hải Phòng: Đào tạo bậc phổ thông từ lớp 6 - lớp 12.",
+            "Thành lập Tiểu học - THCS - THPT FPT Bắc Ninh: Đào tạo bậc phổ thông từ lớp 1 - lớp 12."
+          ]
+        },
+        {
+          "year": "Năm 2023",
+          "events": [
+            "Thành lập Tiểu học, THCS, THPT FPT Hà Nam, Bắc Giang: Đào tạo bậc phổ thông từ lớp 1 - lớp 12."
+          ]
+        }
+      ]
+    }
+  }
+  
