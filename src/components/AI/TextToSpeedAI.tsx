@@ -4,7 +4,6 @@ import React, {
   useImperativeHandle,
   useState,
   useEffect,
-  ForwardRefRenderFunction,
 } from "react";
 
 import AudioPlayer from "./AudioPlayer";
@@ -23,9 +22,7 @@ interface HistoryItem {
   audioUrl: string;
 }
 
-interface TextToSpeedAIProps {
-  
-}
+interface TextToSpeedAIProps {}
 
 interface ChildProps {
   initialMessage: string;
@@ -48,7 +45,6 @@ const TextToSpeedAI = forwardRef<ChildRef, TextToSpeedAIProps>((props, ref) => {
   const [currentlyPlaying, setCurrentlyPlaying] = useState<string | null>(null);
 
   const setIsTalking = useStore((state: any) => state?.setIsTalking);
-
 
   useEffect(() => {
     const storedApiKey = localStorage.getItem("apiKey");
@@ -77,11 +73,11 @@ const TextToSpeedAI = forwardRef<ChildRef, TextToSpeedAIProps>((props, ref) => {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
-          Authorization: `Bearer ${"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"}`,
+          Authorization: `Bearer ${process.env.NEXT_PUBLIC_OPENAI_API_KEY}`,
         },
         body: JSON.stringify({
           model,
-            input: "[Vietnamese]"+ data,
+          input: "[Vietnamese]" + data,
           voice,
           speed,
           language: "vi",
@@ -154,11 +150,10 @@ const TextToSpeedAI = forwardRef<ChildRef, TextToSpeedAIProps>((props, ref) => {
 
   return (
     <>
-      
       <AudioPlayer
         src={audioUrl}
         onEnded={handleEnded}
-        className=" w-full mt-4"
+        className="mt-4 w-full"
       />
       {/* <HistoryList
         history={history}
@@ -171,5 +166,5 @@ const TextToSpeedAI = forwardRef<ChildRef, TextToSpeedAIProps>((props, ref) => {
     </>
   );
 });
-
+TextToSpeedAI.displayName = "TextToSpeedAI";
 export default TextToSpeedAI;

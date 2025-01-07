@@ -3,12 +3,12 @@ import React, { useEffect, useRef } from "react";
 const interpolateColor = (
   startColor: number[],
   endColor: number[],
-  factor: number
+  factor: number,
 ): number[] => {
   const result = [];
   for (let i = 0; i < startColor.length; i++) {
     result[i] = Math.round(
-      startColor[i] + factor * (endColor[i] - startColor[i])
+      startColor[i] + factor * (endColor[i] - startColor[i]),
     );
   }
   return result;
@@ -16,7 +16,7 @@ const interpolateColor = (
 
 const Visualizer = ({ microphone }: { microphone: MediaRecorder }) => {
   const canvasRef = useRef<HTMLCanvasElement>(null);
-  const audioContext = new (window.AudioContext || window.webkitAudioContext)();
+  const audioContext = new (window.AudioContext || window.AudioContext)();
   const analyser = audioContext.createAnalyser();
   const dataArray = new Uint8Array(analyser.frequencyBinCount);
 
@@ -55,7 +55,7 @@ const Visualizer = ({ microphone }: { microphone: MediaRecorder }) => {
     const startColor = [19, 239, 147];
     const endColor = [20, 154, 251];
 
-    for (const value of dataArray) {
+    for (const value of Array.from(dataArray)) {
       const barHeight = (value / 255) * height * 2;
 
       const interpolationFactor = value / 255;
